@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\ybs\ybs\bin\Debug\ybs.exe.config
+C:\Users\admin\source\repos\ybs\ybs\bin\Debug\ybs.exe
+C:\Users\admin\source\repos\ybs\ybs\bin\Debug\ybs.pdb
+C:\Users\admin\source\repos\ybs\ybs\bin\Debug\GMap.NET.Core.dll
+C:\Users\admin\source\repos\ybs\ybs\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\admin\source\repos\ybs\ybs\bin\Debug\MaterialSkin.dll
+C:\Users\admin\source\repos\ybs\ybs\bin\Debug\Zeroit.Framework.LollipopControls.dll
+C:\Users\admin\source\repos\ybs\ybs\obj\Debug\ybs.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ybs\ybs\obj\Debug\ybs.Form1.resources
+C:\Users\admin\source\repos\ybs\ybs\obj\Debug\ybs.Properties.Resources.resources
+C:\Users\admin\source\repos\ybs\ybs\obj\Debug\ybs.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ybs\ybs\obj\Debug\ybs.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ybs\ybs\obj\Debug\ybs.csproj.CopyComplete
+C:\Users\admin\source\repos\ybs\ybs\obj\Debug\ybs.exe
+C:\Users\admin\source\repos\ybs\ybs\obj\Debug\ybs.pdb
+C:\Users\admin\source\repos\ybs\ybs\obj\Debug\ybs.Form2.resources
+C:\Users\admin\source\repos\ybs\ybs\obj\Debug\ybs.Form3.resources
